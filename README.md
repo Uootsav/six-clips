@@ -16,7 +16,7 @@ Paste a YouTube, Twitch or Kick link, or drop a video file. SIX Clips finds the 
 - Five themes
 
 ## Install
-1. Download `SIXClips_Setup.exe` from [Releases](https://github.com/YOUR-GITHUB-USERNAME/six-clips/releases/latest).
+1. Download `SIXClips_Portable.zip.` from [Releases](https://github.com/uootsav/six-clips/releases/latest).
 2. If Windows shows "Windows protected your PC", click **More info → Run anyway**. This appears for new apps without a paid signing certificate.
 3. The first run downloads the speech model once (0.5–1.6 GB).
 
